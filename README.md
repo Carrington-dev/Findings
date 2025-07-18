@@ -14,7 +14,7 @@ https://www.enhisecure.com/isecureblog/2024/10/23/microsoft-365-sso-integration-
 https://developer.okta.com/docs/guides/implement-grant-type/authcode/main/
 
 https://learn.microsoft.com/en-us/entra/permissions-management/how-to-configure-okta-as-an-identity-provider
-
+https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/how-to-guides/use-sdk-rest-api?view=doc-intel-4.0.0&preserve-view=true&pivots=programming-language-rest-api&tabs=linux
 
 
 
