@@ -8,6 +8,9 @@ https://global-sharepoint.com/copilot/configure-single-sign-on-in-copilot/
 https://learn.microsoft.com/en-us/microsoft-copilot-studio/configuration-end-user-authentication
 https://www.okta.com/integrations/microsoft-office-365/
 https://www.servicenow.com/docs/bundle/yokohama-it-asset-management/page/product/software-asset-management2/concept/integrate-okta.html
+https://help.okta.com/oie/en-us/content/topics/identity-engine/authenticators/configure-idp-authenticator.htm
+https://help.okta.com/oie/en-us/content/topics/identity-engine/authenticators/configure-idp-authenticator.htm
+https://www.enhisecure.com/isecureblog/2024/10/23/microsoft-365-sso-integration-using-okta/
 
 ```
 ## My Findings
