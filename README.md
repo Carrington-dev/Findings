@@ -19,5 +19,7 @@ https://docs.google.com/presentation/d/1VWBQhWXe0l60LqSFQV-HVM68pIdMiNtnn3JOS0sW
 https://docs.google.com/presentation/d/1yOgeLHE1AyRlyWIZgLfrCu3czfyx420NiOlzC8_QFxg/edit?slide=id.gcb9a0b074_1_0#slide=id.gcb9a0b074_1_0
 https://labs.sogeti.com/integrating-okta-azure-ad-domain-joined-devices/
 https://learn.microsoft.com/en-us/powershell/microsoftgraph/authentication-commands?view=graph-powershell-1.0
+https://developer.okta.com/docs/guides/implement-grant-type/authcode/main/
+
 ```
 Microsoft 365 SSO Integration using Okta Workflow USING OKTA AS IDP
